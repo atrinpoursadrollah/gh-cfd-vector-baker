@@ -5,7 +5,9 @@ This repository solves a common challenge in **CFD simulations with Butterfly** 
 The workflow combines **Butterfly CFD simulation results**, **Grasshopper scripting**, **Python automation**, and the **Human plugin** to produce editable 3D arrows representing flow direction and magnitude.
 
 ---
-![Uploading image.png…]()
+
+![Uploading cfd.png…]()
+
 
 ## 🔍 Overview
 
