@@ -6,7 +6,8 @@ The workflow combines **Butterfly CFD simulation results**, **Grasshopper script
 
 ---
 
-![Uploading cfd.png…]()
+<img width="1640" height="784" alt="image" src="https://github.com/user-attachments/assets/67e2f768-147d-414a-bffc-6d4d238d03db" />
+
 
 
 ## 🔍 Overview
